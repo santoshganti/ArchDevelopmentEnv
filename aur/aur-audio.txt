@@ -1,0 +1,5 @@
+pipecontrol
+pipewire-module-xrdp-git
+pipewire-openrc
+pipewire-support
+lua-socket

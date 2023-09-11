@@ -1,0 +1,14 @@
+bottles
+libva-nvidia-driver
+lib32-a52dec
+steamcmd
+steamlink
+game-devices-udev
+ttf-ms-win11-auto
+protondb-tags
+protontricks
+vkbasalt
+vkbasalt-cli
+gamescope-git
+dualsensectl-git
+xboxdrv

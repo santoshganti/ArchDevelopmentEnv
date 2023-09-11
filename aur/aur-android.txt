@@ -1,0 +1,7 @@
+android-emulator
+android-ndk
+android-sdk
+android-sdk-platform-tools
+android-studio
+android-udev
+waydroid
