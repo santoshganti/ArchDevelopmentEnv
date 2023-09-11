@@ -1,0 +1,15 @@
+1password
+1password-cli
+aur-auto-vote-git
+mkinitcpio-firmware
+spectre-meltdown-checker
+mutter-performance
+nvm
+brave-bin
+visual-studio-code-bin
+github-desktop-bin
+google-chrome
+btrfs-assistant
+btrfsmaintenance
+gnu-free-fonts
+shim-signed

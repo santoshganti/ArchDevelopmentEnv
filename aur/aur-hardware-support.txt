@@ -1,0 +1,9 @@
+ckb-next
+razergenie
+openrazer-meta
+openrgb
+asusctl
+asusctltray
+supergfxctl
+rog-control-center
+acpi_call_dkms
