@@ -1,5 +1,0 @@
-zenstates-git
-zenmonitor
-zenpower-dkms
-zenstates-git
-ryzen_smu-dkms-git

@@ -1,2 +1,0 @@
-ryujinx-ava-bin
-dolphin-emu-git

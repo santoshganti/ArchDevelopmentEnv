@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<opml version="2.0">
-  <head>
-    <title>Subscriptions</title>
-  </head>
-  <body>
-    <outline type="rss" title='"technology news" - Google News' text="Google News" xmlUrl="https://news.google.com/rss/search?hl=en-US&amp;gl=US&amp;ceid=US%3Aen&amp;oc=11&amp;q=technology%20news" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;oc=11&amp;q=technology+news" category="" />
-  </body>
-</opml>
