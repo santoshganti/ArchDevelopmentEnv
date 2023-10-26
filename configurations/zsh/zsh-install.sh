@@ -1,0 +1,3 @@
+
+sudo pacman -S powerline grml-zsh-config bash-preexec python-click-completion zsh-syntax-highlighting zsh-history-substring-search zsh-autosuggestions zsh-completions zsh-lovers zsh-doc zshdb zsh python-pygments python-babel python-pygit2 powerline-vim powerline-fonts
+yay -S oh-my-zsh-git oh-my-zsh-powerline-theme-git oh-my-zsh-theme-via oh-my-zsh-plugin-syntax-highlighting bullet-train-oh-my-zsh-theme-git

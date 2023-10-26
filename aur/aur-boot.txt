@@ -1,0 +1,7 @@
+dracut
+dracut-hook
+dracut-btrfs-uefi-hook
+rebuild-initramfs-dracut
+kernel-install-for-dracut
+shim-signed
+zram-generator-defaults

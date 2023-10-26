@@ -1,0 +1,11 @@
+# /etc/pacman.d/hooks/cockpit.hook
+
+[Trigger]
+Operation=Upgrade
+Type=Package
+Target=cockpit
+
+[Action]
+Description = removing annoying login messages during graphical login
+When=PostTransaction
+Exec=ln -sfn /dev/null /etc/motd.d/cockpit

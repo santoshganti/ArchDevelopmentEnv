@@ -1,0 +1,10 @@
+btrfs-list
+linux-apfs-rw-dkms-git
+hfsprogs
+hfsutils
+btrfs-assistant
+btrfsmaintenance
+cockpit-zfs-manager
+zfs-auto-snapshot
+zfs-dkms
+zfs-utils

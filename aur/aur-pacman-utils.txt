@@ -1,0 +1,4 @@
+rate-mirrors
+shim-signed
+spectre-meltdown-checker
+blackbox-terminal

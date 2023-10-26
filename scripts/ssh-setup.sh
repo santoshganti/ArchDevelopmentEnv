@@ -1,0 +1,6 @@
+nano authorized_keys
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMRQt+/E2Etx2MaSe4TQlfJCY4dfvtzfAfTC/fUAlLBR santoshganti@archlinux.meraxes.santoshganti.net
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPjHB8IEYpiZSyb0V4cSEyOACiMJhVynR+wZFfRsdN9E santoshganti@macbook.santoshganti.net
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG1Ie8i5gvC0IEHN40bWyHz7tHgjeiN/mJGNq0QESqwF wsldev@wslubuntu2204
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII/imKYC5ytPyRUli31YsIxKAaHvpkok1HtEuBYkYEHo santoshganti@windows11

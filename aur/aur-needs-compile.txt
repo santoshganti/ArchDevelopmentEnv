@@ -1,0 +1,12 @@
+dualsensectl-git
+keyboard-visualizer-git
+lib32-mangohud-git
+openrazer-meta-git
+pipewire-module-xrdp-git
+replay-sorcery-git
+reshade-shaders-git
+ryzen_smu-dkms-git
+uksmdstats-git
+zenmonitor3-git
+zenpower3-dkms-git
+zenstates-git

@@ -1,0 +1,3 @@
+ttf-ms-win11-auto
+apple-fonts
+ttf-ms-fonts

@@ -1,0 +1,19 @@
+1password
+1password-cli
+aur-auto-vote-git
+mkinitcpio-firmware
+mkinitcpio-nfs-utils
+spectre-meltdown-checker
+nvm
+brave-bin
+visual-studio-code-bin
+github-desktop-bin
+gnu-free-fonts
+shim-signed
+rate-mirrors
+powerpill
+ python3-aur
+ reflector
+ lldb
+ llvm
+ 

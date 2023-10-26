@@ -1,0 +1,6 @@
+podman-desktop
+docker-desktop
+mailspring
+notion
+whatsapp-nativefier
+bluebubbles-bin

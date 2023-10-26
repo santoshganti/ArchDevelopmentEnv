@@ -1,0 +1,7 @@
+ckb-next
+razergenie
+openrazer-meta
+acpi_call_dkms
+asus-fan-dkms-git
+asusctl-git
+gpu-viewer

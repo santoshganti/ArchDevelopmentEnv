@@ -1,0 +1,14 @@
+bashbrew
+container-diff
+dive
+docker
+docker-buildx
+docker-compose
+docker-machine
+docker-scan
+kompose
+nerdctl
+podman-compose
+python-docker
+python-docker-pycreds
+python-dockerpty

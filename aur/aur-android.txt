@@ -1,0 +1,12 @@
+android-emulator
+android-ndk
+android-sdk
+android-sdk-platform-tools
+android-studio
+android-udev
+waydroid
+android-apktool
+android-platform
+flutter
+android-bash-completion
+android-messages-desktop

@@ -1,0 +1,4 @@
+realmd 
+freeipa-client-common 
+freeipa-common 
+freeipa-client

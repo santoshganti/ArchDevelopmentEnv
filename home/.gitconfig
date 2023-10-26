@@ -1,0 +1,10 @@
+[user]
+        name = Santosh Ganti
+        email = santosh.ganti@live.com
+        signingkey = B26FD0B0B9666479
+[init]
+        defaultBranch = main
+[credential]
+        helper = /usr/local/bin/git-credential-manager
+[commit]
+        gpgsign = true

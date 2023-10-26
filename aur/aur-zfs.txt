@@ -1,0 +1,8 @@
+zfs-dkms
+zfs-utils
+cockpit-zfs-manager
+zfs-auto-snapshot
+zfsbootmenu
+zfsbootmenu-efi-bin
+zedenv
+sanoid-git

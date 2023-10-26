@@ -1,0 +1,8 @@
+yaru-gnome-shell-theme
+yaru-gtk-theme
+yaru-gtksourceview-theme
+yaru-icon-theme
+yaru-session
+yaru-sound-theme
+yaru-unity-theme
+yaru-xfwm4-theme

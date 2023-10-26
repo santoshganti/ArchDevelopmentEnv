@@ -1,0 +1,6 @@
+phpstorm
+clion
+clion-jre
+clion-cmake
+clion-gdb
+clion-lldb

@@ -1,0 +1,4 @@
+brave-bin
+microsoft-edge-stable-bin
+google-chrome
+chromedriver
